@@ -1,5 +1,5 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
+    titleWeb: "Sent Nguyễn Thị Thu An",
     introTitle: 'Nguyễn Thị Thu An',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
@@ -7,8 +7,8 @@ const CONFIG = {
     Đằng sau chữ yêu đây là thương`,
     btnIntro: '^^HiHi^^',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng anh đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Yêu Luôn :)))',
+    desc: 'Phải chăng anh đã say ngay từ lúc thấy nụ cười ấy. Đã 7 năm roài nhỉ!!,Nhưng cái cảm giác khi em gọi anh,anh vẫn thấy trong mình hồi hộp xôn xao đến khó thở :)) ',
+    btnYes: 'Yêu anh nhé công  :)))',
     btnNo: 'Không bao giờ:3',
     question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
     btnReply: 'Gửi cho anh <3',
@@ -16,5 +16,5 @@ const CONFIG = {
     mess: 'Mình biết mà 🥰. Yêu An nhiều nhiều 😘😘',
     messDesc: 'Ngày mai, mình qua đón đi chơi nha đk không :))).',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://m.facebook.com/Dang.Huy.16.2'
 }
